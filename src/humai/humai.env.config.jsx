@@ -1,6 +1,6 @@
 import { DIRECT_PLUGIN, PLUGIN_OPERATIONS } from '@openedx/frontend-plugin-framework';
-import CustomHeader from './src/humai/CustomHeader';
-import CustomFooter from './src/humai/CustomFooter';
+import CustomHeader from './CustomHeader';
+import CustomFooter from './CustomFooter';
 
 const config = {
     pluginSlots: {
