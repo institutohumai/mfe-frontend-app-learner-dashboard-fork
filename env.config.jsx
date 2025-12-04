@@ -12,7 +12,7 @@ const config = {
                     widgetId: 'default_contents',
                 }
             ]
-        },
+        }, 
         'org.openedx.frontend.layout.header_desktop.v1': {
             keepDefault: false,
             plugins: [
